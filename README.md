@@ -27,10 +27,7 @@ cd Password-Strength-Checker-and-Data-Breaches
 
 ▶️ Usage
 Check Password Strength Only
-python password_checker.py --password "My@StrongPass123"
-
-Check for Data Breach
-python password_checker.py --password "My@StrongPass123" --check-breach
+python3 Password-Strength-Checker-and-Data-Breaches.py 
 
 📊 Example Output
 Password Strength: Strong ✅
